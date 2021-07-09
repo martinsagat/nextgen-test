@@ -1,0 +1,9 @@
+.wrapper {
+    @apply flex;
+    @apply flex-col;
+    @apply h-screen;
+    @apply w-full;
+    @apply text-gray;
+    @apply items-center;
+    @apply justify-center;
+}
